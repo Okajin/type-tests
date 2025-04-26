@@ -1,0 +1,7 @@
+# Ignorer les fichiers compilés
+dist/
+node_modules/
+*.log
+
+# Si besoin, d'autres fichiers temporaires
+.env
